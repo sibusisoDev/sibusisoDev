@@ -4,7 +4,6 @@
 - 💞️ I’m looking for any open roles as a Junior Software Engineer (specifically Java Software Engineer & Microsoft C# Software Engineer) 
 - 📫 Please reach out to me on the following details:
   Email    : sibusisokhanye2@gmail.com
-  Contact  : 060 305 1230
   LinkedIn : https://www.linkedin.com/in/sibusiso-khanye-236243a2  
 
 <!---
